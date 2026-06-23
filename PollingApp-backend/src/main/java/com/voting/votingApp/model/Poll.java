@@ -18,4 +18,6 @@ public class Poll {
 
     @ElementCollection
     private List<OptionVote> options=new ArrayList<>();
+
+
 }
